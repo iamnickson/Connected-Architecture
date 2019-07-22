@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using System.Configuration;
+
 
 namespace DbConnection
 {
@@ -16,7 +18,8 @@ namespace DbConnection
         public Form1()
         {
             InitializeComponent();
-            mycon = new MySqlConnection("data source=localhost; database=employee; user id=root; password=");
+            //mycon = new MySqlConnection("data source=localhost; database=employee; user id=root; password=");
+            mycon = new MySqlConnection(ConfigurationManager.ConnectionStrings["DesiredName"].ConnectionString);
         }
 
         private void button1_Click(object sender, EventArgs e)
