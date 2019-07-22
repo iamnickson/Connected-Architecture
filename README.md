@@ -15,7 +15,7 @@ Right click on the Reference and add reference, go to the MySQL installed folder
 System volume and select the required in folder v4.5.2 </br>
 </br>
 Sometimes you may get this error</br>
-Error 1 The type or namespace name 'MySql' could not be found (are you missing a using directive or an assembly reference?) F:\2016csc028\DbConnection\DbConnection\Form1.cs 9 7 DbConnection
+Error 1 The type or namespace name 'MySql' could not be found (are you missing a using directive or an assembly reference?) F:\MyWorks\DbConnection\DbConnection\Form1.cs 9 7 DbConnection
 </br>
 To solve this problem download MySql.Data.dll from </br>
 
