@@ -1,0 +1,10 @@
+F:\2016csc028\DbConnection\DbConnection\obj\x86\Debug\DbConnection.csprojResolveAssemblyReference.cache
+F:\2016csc028\DbConnection\DbConnection\obj\x86\Debug\DbConnection.Form1.resources
+F:\2016csc028\DbConnection\DbConnection\obj\x86\Debug\DbConnection.Properties.Resources.resources
+F:\2016csc028\DbConnection\DbConnection\obj\x86\Debug\DbConnection.csproj.GenerateResource.Cache
+F:\2016csc028\DbConnection\DbConnection\bin\Debug\DbConnection.exe
+F:\2016csc028\DbConnection\DbConnection\bin\Debug\DbConnection.pdb
+F:\2016csc028\DbConnection\DbConnection\bin\Debug\MySql.Data.dll
+F:\2016csc028\DbConnection\DbConnection\bin\Debug\Renci.SshNet.dll
+F:\2016csc028\DbConnection\DbConnection\obj\x86\Debug\DbConnection.exe
+F:\2016csc028\DbConnection\DbConnection\obj\x86\Debug\DbConnection.pdb
