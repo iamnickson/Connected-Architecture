@@ -20,3 +20,7 @@ Error 1 The type or namespace name 'MySql' could not be found (are you missing a
 To solve this problem download MySql.Data.dll from </br>
 
 https://www.cryptool.org/trac/CrypTool2/export/2020/trunk/AppReferences/x64/MySql.Data.dll </br>
+</br>
+
+Right click at File -> Add -> NewFile -> Application Config File </br>
+
